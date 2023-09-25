@@ -4,12 +4,12 @@
 
 https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=ja
 
-| ライブラリ名      | GitHub リポジトリ URL                                                       | 公式ドキュメンテーション                                                           |
-| ----------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
-| CSS Modules       | [GitHub リポジトリ](https://github.com/yud0uhu/basic-css-modules-app)       | [公式ドキュメンテーション](https://github.com/css-modules/css-modules)             |
-| Emotion           | [GitHub リポジトリ](https://github.com/yud-uhu/basic-emotion-app)           | [公式ドキュメンテーション](https://emotion.sh/docs/introduction)                   |
-| Kuma UI           | [GitHub リポジトリ](https://github.com/yud0uhu/basic-kuma-ui-app)           | [公式ドキュメンテーション](https://www.kuma-ui.com/docs)                           |
-| Linalia           | [GitHub リポジトリ](https://github.com/yud0uhu/basic-linalia-app)           | [公式ドキュメンテーション](https://github.com/callstack/linaria/tree/master/docs/) |
-| Panda CSS         | [GitHub リポジトリ](https://github.com/yud0uhu/basic-panda-app)             | [公式ドキュメンテーション](https://panda-css.com/docs/overview/getting-started)    |
-| Stitches          | [GitHub リポジトリ](https://github.com/yud0uhu/basic-stitches-app)          | [公式ドキュメンテーション](https://stitches.dev/docs/introduction)                 |
-| Styled Components | [GitHub リポジトリ](https://github.com/yud0uhu/basic-styled-components-app) | [公式ドキュメンテーション](https://styled-components.com/docs)                     |
+| ライブラリ名      | 検証リポジトリ                                                                                                    | 公式ドキュメント                                                                                                  |
+| ----------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| CSS Modules       | [https://github.com/yud0uhu/basic-css-modules-app ](https://github.com/yud0uhu/basic-css-modules-app)             | [https://github.com/css-modules/css-modules ](https://github.com/css-modules/css-modules)                         |
+| Emotion           | [https://github.com/yud-uhu/basic-emotion-app ](https://github.com/yud-uhu/basic-emotion-app)                     | [https://emotion.sh/docs/introduction](https://emotion.sh/docs/introduction)                                      |
+| Kuma UI           | [https://github.com/yud0uhu/basic-kuma-ui-app ](https://github.com/yud0uhu/basic-kuma-ui-app)                     | [https://www.kuma-ui.com/docs](https://www.kuma-ui.com/docs)                                                      |
+| Linalia           | [https://github.com/yud0uhu/basic-linalia-app ](https://github.com/yud0uhu/basic-linalia-app)                     | [https://github.com/callstack/linaria/tree/master/docs/ ](https://github.com/callstack/linaria/tree/master/docs/) |
+| Panda CSS         | [https://github.com/yud0uhu/basic-panda-app ](https://github.com/yud0uhu/basic-panda-app)                         | [https://panda-css.com/docs/overview/getting-started](https://panda-css.com/docs/overview/getting-started)        |
+| Stitches          | [https://github.com/yud0uhu/basic-stitches-app ](https://github.com/yud0uhu/basic-stitches-app)                   | [https://stitches.dev/docs/introduction](https://stitches.dev/docs/introduction)                                  |
+| Styled Components | [https://github.com/yud0uhu/basic-styled-components-app ](https://github.com/yud0uhu/basic-styled-components-app) | [https://styled-components.com/docs](https://styled-components.com/docs)                                          |
